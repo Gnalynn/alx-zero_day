@@ -1,1 +1,4 @@
-not empty README.md
+My first readme
+alx learning
+alx course
+
